@@ -1,8 +1,7 @@
 # shop-blikCodeGenerator
 In this repository you can find:
 - shop console application (Java)
-- blikCodeGenerator Android app (Kotlin)
-- backend for Android app (Java)
+- backend for Android blikCodeGenerator app (Java)
 
 We hope, you'll like it!
 
